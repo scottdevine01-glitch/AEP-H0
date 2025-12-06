@@ -1,0 +1,4 @@
+# Planck 2018 baseline parameters (for reference)
+H0_lcdm = 67.4
+Omega_m = 0.315
+sigma8 = 0.811
